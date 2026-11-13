@@ -1,0 +1,34 @@
+# Dependencies
+**/node_modules/
+**/.pnp
+**/.pnp.js
+
+# Testing & Coverage
+**/coverage/
+
+# Next.js Build Outputs
+**/.next/
+**/out/
+**/build/
+**/dist/
+
+# Python & Virtual Environments
+**/__pycache__/
+**/*.py[cod]
+**/*$py.class
+**/.venv/
+**/venv/
+**/env/
+
+# Environment Variables
+**/.env*.local
+**/.env
+
+# Temporary / OS Files
+.DS_Store
+Thumbs.db
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+extract_pptx.py
